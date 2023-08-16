@@ -1,0 +1,43 @@
+---
+title: "Notes"
+format: html
+editor: visual
+---
+
+## Meeting 16/08/23
+
+### General notes
+
+The research question: when everyone is the same genetically, how should colony labour be divided between:
+
+1. Antennal boxing (a form of fighting to determine dominance hierarchies)
+
+2. Egg-laying
+
+3. Caring 
+
+in order to produce high fitness colonies (the quantity maximised by kin or the equivalent modern group selection).
+
+Think of this as a pie chart. 
+
+- Fighting enforces division of labour, but it reduces the time or individuals allocated to egg-laying and caring. If fighting disappears, everyone lays eggs and no one cares.
+
+- As a first pass, within-colony phenotypic variance is assumed to equal zero i.e. $V_E^{within.colony} = 0$.
+
+- There is some negative relationship between care quality and within-individual egg-laying. 
+
+- The outcome is some measure of colony fitness.
+
+- Hanna's intuition suggests that this part of the model is possible analytically.
+
+- Then, phenotypic variance can be included through simulation or numeric solution.
+
+- The correlation between dominance and egg-laying then becomes important.
+
+- Fighting may be adaptive, because it enforces division of labour. This does not mean it produces the optimal outcome. Simply getting the majority to coordinate is a large advantage. $\sigma(dominance, productivity)$ determines load on colonies.
+
+### Fruitful literature 
+
+- Coordination games
+
+- Recent game theory

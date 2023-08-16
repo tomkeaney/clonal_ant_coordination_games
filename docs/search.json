@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "The research question: when everyone is the same genetically, how should colony labour be divided between:\n\nAntennal boxing (a form of fighting to determine dominance hierarchies)\nEgg-laying\nCaring\n\nin order to produce high fitness colonies (the quantity maximised by kin or the equivalent modern group selection).\nThink of this as a pie chart.\n\nFighting enforces division of labour, but it reduces the time or individuals allocated to egg-laying and caring. If fighting disappears, everyone lays eggs and no one cares.\nAs a first pass, within-colony phenotypic variance is assumed to equal zero i.e. \\(V_E^{within.colony} = 0\\).\nThere is some negative relationship between care quality and within-individual egg-laying.\nThe outcome is some measure of colony fitness.\nHanna’s intuition suggests that this part of the model is possible analytically.\nThen, phenotypic variance can be included through simulation or numeric solution.\nThe correlation between dominance and egg-laying then becomes important.\nFighting may be adaptive, because it enforces division of labour. This does not mean it produces the optimal outcome. Simply getting the majority to coordinate is a large advantage. \\(\\sigma(dominance, productivity)\\) determines load on colonies.\n\n\n\n\n\nCoordination games\nRecent game theory"
+  },
+  {
+    "objectID": "notes.html#meeting-160823",
+    "href": "notes.html#meeting-160823",
+    "title": "Notes",
+    "section": "",
+    "text": "The research question: when everyone is the same genetically, how should colony labour be divided between:\n\nAntennal boxing (a form of fighting to determine dominance hierarchies)\nEgg-laying\nCaring\n\nin order to produce high fitness colonies (the quantity maximised by kin or the equivalent modern group selection).\nThink of this as a pie chart.\n\nFighting enforces division of labour, but it reduces the time or individuals allocated to egg-laying and caring. If fighting disappears, everyone lays eggs and no one cares.\nAs a first pass, within-colony phenotypic variance is assumed to equal zero i.e. \\(V_E^{within.colony} = 0\\).\nThere is some negative relationship between care quality and within-individual egg-laying.\nThe outcome is some measure of colony fitness.\nHanna’s intuition suggests that this part of the model is possible analytically.\nThen, phenotypic variance can be included through simulation or numeric solution.\nThe correlation between dominance and egg-laying then becomes important.\nFighting may be adaptive, because it enforces division of labour. This does not mean it produces the optimal outcome. Simply getting the majority to coordinate is a large advantage. \\(\\sigma(dominance, productivity)\\) determines load on colonies.\n\n\n\n\n\nCoordination games\nRecent game theory"
+  }
+]
